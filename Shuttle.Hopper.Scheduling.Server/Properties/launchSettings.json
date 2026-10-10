@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Shuttle.Hopper.Scheduling.Server": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "configurationFolder": "."
+      }
+    }
+  }
+}

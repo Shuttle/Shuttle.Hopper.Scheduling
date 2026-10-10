@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Shuttle.Hopper.Scheduling.SqlServer/Shuttle.Hopper.Scheduling.SqlServer.csproj" />
+  <Project Path="Shuttle.Hopper.Scheduling.Messages/Shuttle.Hopper.Scheduling.Messages.csproj" />
+  <Project Path="Shuttle.Hopper.Scheduling.Server/Shuttle.Hopper.Scheduling.Server.csproj" />
+  <Project Path="Shuttle.Hopper.Scheduling.Tests/Shuttle.Hopper.Scheduling.Tests.csproj" />
+  <Project Path="Shuttle.Hopper.Scheduling.WebApi/Shuttle.Hopper.Scheduling.WebApi.csproj" />
+  <Project Path="Shuttle.Hopper.Scheduling.WebApi.Contracts/Shuttle.Hopper.Scheduling.WebApi.Contracts.csproj" />
+  <Project Path="Shuttle.Hopper.Scheduling/Shuttle.Hopper.Scheduling.csproj" />
+</Solution>
